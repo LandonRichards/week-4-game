@@ -27,8 +27,8 @@ var resetAndStart = function() {
 		  'https://fossbytes.com/wp-content/uploads/2017/04/time-crystals-.jpg',
 		   'http://cdn.shopify.com/s/files/1/0276/7495/files/the-healing-benefits-of-crystals-1200x800b.jpg?5324']
 
-	random_result = Math.floor(Math.random() * 69) + 30;
-//it cant be 99 cuz that goes too low. has to be 69 + 30
+	random_result = Math.floor(Math.random() * 101) + 19;
+//it cant be 99 cuz that goes too low. has to be 101 + 19
 
 //console.log(random_result)
 
